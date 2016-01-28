@@ -1,0 +1,113 @@
+@charset "UTF-8";
+.ad-img {
+    position: relative;
+    height: 495px;
+}
+.ad-a {
+    position: absolute;
+    top:0;
+    left:0;
+    display: none;
+}
+.ad-img1 .t {
+    padding-top: 15px;
+}
+.ad-img1 .r {
+    padding-top: 40px;
+}
+.ad-img .cur{
+    display: block;
+
+}
+.cicle {
+    position: absolute;
+    bottom: 40px;
+    left: 50%;
+    margin-left: -22px;
+    width: 60px;
+    height: 12px;
+    text-align: center;
+}
+.cicle li {
+    float: left;
+    width: 8px;
+    height:8px;
+    background: url(../images1/dot.png) no-repeat -3px -1px;
+    margin-right: 8px;
+    cursor: pointer;
+}
+.cicle .cur {
+    width: 10px;
+    height: 10px;
+    background: url(../images1/dot.png) no-repeat -2px -14px;
+
+}
+.parts {
+    margin-top: 18px;
+}
+.ear {
+    margin-top: 18px;
+}
+.cloth {
+    margin-top: 18px;
+}
+.pro {
+    margin-top: 18px;
+    background: white;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+.pro .pho {
+    width: 748px;
+    padding-top: 66px;
+}
+.p-f {
+    padding-left: 72px;
+}
+.p-l {
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    padding-top: 90px;
+    padding-bottom: 33px;
+    height: 190px;
+    display: block;
+    padding-left: 80px;
+}
+.pro .more {
+    display: block;
+    padding: 170px 50px 0 80px;
+    border-left: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    background: url(../images1/word.png) no-repeat 50px 67px;
+}
+.last a {
+    width: 334px;
+    display: block;
+    background-color: white;
+}
+.last-a1,.last-a2 {
+    height: 86px;
+    padding:235px 0 0 40px;
+    color: #000;
+    border-right: 1px solid #eee;
+}
+.last-a3 {
+    height: 320px;
+    background: url(../images1/sup.png) no-repeat center center;
+}
+.para1 {
+    font-size:22px;
+    color: #616161;
+    height: 28px;
+}
+.para2 {
+    color: #333;
+    font-size: 18px;
+}
+.last-a1 {
+    background: url(../images1/ear1.jpg) no-repeat 40px 43px;
+
+}
+.last-a2 {
+    background: url(../images1/ear2.jpg) no-repeat 40px 43px;
+}
